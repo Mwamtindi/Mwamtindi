@@ -1,4 +1,5 @@
 <img align="center" src="https://github.com/Mwamtindi/Mwamtindi/blob/main/banner.png" />
+
 ## Hi there 👋
 
 + 🔭 I’m currently working on something cool.
