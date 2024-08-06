@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/Mwamtindi/Mwamtindi/blob/main/banner.png" />
+<img height="30px" width="100%" src="https://github.com/Mwamtindi/Mwamtindi/blob/main/banner.png" />
 
 ## Hi there 👋
 
