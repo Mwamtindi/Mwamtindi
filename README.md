@@ -6,7 +6,9 @@
 + 🌱 I’m currently developing a banking and hospital management system.
 + 👯 I’m looking to collaborate with anyone ; come with any idea buddy.
 + 💬 Ask me about cybersec and webdev.
-<br/>
+
+## Technical Skills 🛠️
+
 <div align="center">
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
