@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🔭 I’m currently working on something cool.
-🌱 I’m currently developing a banking and hospital management system.
-👯 I’m looking to collaborate with anyone ; come with any idea buddy.
-💬 Ask me about cybersec and webdev.
++ 🔭 I’m currently working on something cool.
++ 🌱 I’m currently developing a banking and hospital management system.
++ 👯 I’m looking to collaborate with anyone ; come with any idea buddy.
++ 💬 Ask me about cybersec and webdev.
 
 ## 📫 How to reach me:
 - [Email](mwamtindishaban@gmail.com)
