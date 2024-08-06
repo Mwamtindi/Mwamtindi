@@ -1,4 +1,4 @@
-![Banner](banner.png)
+<img align="center" src="https://github.com/Mwamtindi/Mwamtindi/banner.png" />
 ## Hi there 👋
 
 + 🔭 I’m currently working on something cool.
