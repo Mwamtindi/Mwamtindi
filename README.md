@@ -27,6 +27,8 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwamtindi&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
+## 📫 How to reach me:
+
 <p> 
   <a href="https://twitter.com/Mwamtindi_jnr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/shabani-mwamtindi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
