@@ -5,7 +5,7 @@
 + 🌱 I’m currently developing a banking and hospital management system.
 + 👯 I’m looking to collaborate with anyone ; come with any idea buddy.
 + 💬 Ask me about cybersec and webdev.
-
+<br/>
 <div align="center">
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -32,10 +32,6 @@
   <a href="https://medium.com/@mwamtindishaban" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 </div>
-## 📫 How to reach me:
-- [Email](mwamtindishaban@gmail.com)
-- [Twitter](https://twitter.com/Mwamtindi_jnr)
-- [LinkedIn](https://www.linkedin.com/in/shabani-mwamtindi/)
 
 <!--
 **Mwamtindi/Mwamtindi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
