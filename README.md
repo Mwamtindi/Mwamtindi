@@ -34,7 +34,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mwamtindi" alt="Mwamtindi" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mwamtindi&" alt="Mwamtindi" /></p>
 
-<div align="right"> ## 📫 How to reach me: </div>
+<div align="left">
+## 📫 How to reach me:
+</div>
 
 <p> 
   <a href="https://twitter.com/Mwamtindi_jnr" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
