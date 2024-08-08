@@ -29,6 +29,7 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwamtindi&langs_count=8&theme=jolly&layout=compact" />
 </a>
 
+## Contribution
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mwamtindi" alt="Mwamtindi" /></a> </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mwamtindi&" alt="Mwamtindi" /></p>
