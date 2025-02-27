@@ -1,4 +1,6 @@
+<a href="https://alphashaban.hashnode.dev/" target="_blank">
 <img height="200px" width="100%" src="https://github.com/Mwamtindi/Mwamtindi/blob/main/banner.png" />
+</a>
 
 ## Hi there 👋
 
