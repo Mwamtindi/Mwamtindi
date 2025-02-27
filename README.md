@@ -5,7 +5,7 @@
 ## Hi there 👋
 
 + 🔭 I’m currently working on something cool.
-+ 🌱 I’m currently developing a banking and hospital management system.
++ 🌱 Exploring webdevelopment and Ethicalhacking.
 + 👯 I’m looking to collaborate with anyone ; come with any idea buddy.
 + 💬 Ask me about cybersec and webdev.
 
